@@ -1,0 +1,1 @@
+ginny Player 30 10 5 5 4 3 1 Chest Item 10 0 0 

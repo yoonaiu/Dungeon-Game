@@ -1,0 +1,7 @@
+﻿  Dungeon.cpp
+C:\Users\Yoona\Desktop\Happy 2\dungeon\Dungeon\Dungeon\Dungeon.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Yoona\Desktop\Happy 2\dungeon\Dungeon\Dungeon\Object.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Yoona\Desktop\Happy 2\dungeon\Dungeon\Dungeon\Dungeon.cpp(48,20): warning C4101: 'attack': 未參考的區域變數
+C:\Users\Yoona\Desktop\Happy 2\dungeon\Dungeon\Dungeon\Dungeon.cpp(48,9): warning C4101: 'maxHealth': 未參考的區域變數
+C:\Users\Yoona\Desktop\Happy 2\dungeon\Dungeon\Dungeon\Dungeon.cpp(48,28): warning C4101: 'defense': 未參考的區域變數
+  dun_3.vcxproj -> C:\Users\Yoona\source\repos\dun_3\Debug\dun_3.exe
